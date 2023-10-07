@@ -1,5 +1,6 @@
 # Il Libro Open Source
 
+Dummy
 Questo progetto nasce da un post su LinkedIn che ha raccolto decine di persone attorno all'obiettivo di realizzare un libro completamente Open Source.  
 Dalla scelta del tema alla stesura del contenuto, il tutto verrà gestito e condiviso con la community e con chiunque voglia contribuire al progetto.
 
